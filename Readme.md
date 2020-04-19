@@ -1,5 +1,5 @@
 # spring-togglz-example
-Sample implementation of togglz using Spring Boot, for the medium article:
+Sample implementation of togglz using Java 11 and Spring Boot, for the medium article:
 
 [Togglz — Feature Toggles pattern for Java (Spring)](https://medium.com/@AADota/togglz-feature-toggles-pattern-for-java-spring-25142990c224)
 
